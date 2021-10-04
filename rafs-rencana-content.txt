@@ -5,8 +5,10 @@ RENCANA KONTEN RAFS
   * Border
   * Line
     ^ Horizontal
-    ^ Garis
+    ^ Vertikal
+- Jaringan
 - CSS
-  ^ Container
+  ^ Selector
 - Reels
 - Live Streaming
+- Public Speaking
