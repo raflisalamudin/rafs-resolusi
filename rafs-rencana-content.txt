@@ -1,6 +1,8 @@
 RENCANA KONTEN RAFS
 
 - HTML
+  * Table
+  * Border
 - CSS
 - Reels
 - Live Streaming
