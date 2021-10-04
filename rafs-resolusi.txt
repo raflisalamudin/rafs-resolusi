@@ -1,0 +1,4 @@
+Rafs Resolusi
+- Bisa HTML & CSS
+- Bisa bikin web dengan bootstrap
+- Dapat pekerjaan
