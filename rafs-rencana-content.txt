@@ -5,6 +5,7 @@ RENCANA KONTEN RAFS
   * Border
   * Line
     ^ Horizontal
+    ^ Vertikal
 - Jaringan
 - CSS
   ^ Selector
