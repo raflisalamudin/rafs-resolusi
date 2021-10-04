@@ -3,7 +3,11 @@ RENCANA KONTEN RAFS
 - HTML
   * Table
   * Border
+  * Line
+    ^ Horizontal
 - Jaringan
 - CSS
+  ^ Selector
 - Reels
 - Live Streaming
+- Public Speaking
